@@ -35,7 +35,7 @@ src/
 │   ├── Contact.jsx
 │   └── Footer.jsx
 ├── data/
-│   └── site.js           # ← All your content lives here
+│   └── site.js          
 └── styles/
     └── globals.css
 ```
