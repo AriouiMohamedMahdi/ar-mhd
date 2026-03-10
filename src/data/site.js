@@ -8,7 +8,7 @@ export const siteData = {
 
   social: {
     github:   "https://github.com/AriouiMohamedMahdi",
-    linkedin: "https://linkedin.com/Arioui Mohamed Mahdi",
+    linkedin: "https://linkedin.com/Mohamed Mahdi Arioui",
     medium:   "https://medium.com/@mehdiarioui96",
     instagram:"https://instagram.com/dr.mahdiarioui",
     email:    "mailto:contact@ammahdi.dev",
