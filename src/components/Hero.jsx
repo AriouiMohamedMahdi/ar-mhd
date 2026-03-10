@@ -86,7 +86,7 @@ export default function Hero() {
               </p>
               <h1 className="font-display font-extrabold leading-none tracking-tight"
                   style={{ fontSize: 'clamp(2.8rem, 6vw, 5rem)', color: '#d0e8ff' }}>
-                A.M.
+                Arioui Mohamed
                 <span
                   className="block glow-cyan"
                   style={{ color: '#00d4ff', WebkitTextStroke: '1px rgba(0,212,255,0.3)' }}
