@@ -1,5 +1,5 @@
 export const siteData = {
-  name: "A.M.Mahdi",
+  name: "Arioui Mohamed Mahdi",
   title: "M.D. Student",
   tagline: "Medical Student · Researcher · Developer · Founder",
   bio: "Medical student with interdisciplinary research interests spanning medicine, technology, and human systems. Founder of MHD Institute — a growing scientific community. Developer, content creator, and aspiring writer driven by the belief that science and creativity are two sides of the same coin.",
@@ -7,10 +7,10 @@ export const siteData = {
   available: true,
 
   social: {
-    github:   "https://github.com",
-    linkedin: "https://linkedin.com",
-    medium:   "https://medium.com",
-    instagram:"https://instagram.com",
+    github:   "https://github.com/AriouiMohamedMahdi",
+    linkedin: "https://linkedin.com/Arioui Mohamed Mahdi",
+    medium:   "https://medium.com/@mehdiarioui96",
+    instagram:"https://instagram.com/dr.mahdiarioui",
     email:    "mailto:contact@ammahdi.dev",
   },
 
@@ -82,13 +82,13 @@ export const siteData = {
 
   experience: [
     {
-      year: "2024–Present",
+      year: "2026–Present",
       role: "Founder & Director",
       org: "MHD Institute",
       desc: "Building a scientific community platform for interdisciplinary research and knowledge exchange.",
     },
     {
-      year: "2023–Present",
+      year: "2022–Present",
       role: "M.D. Student",
       org: "Faculty of Medicine",
       desc: "Pursuing medical degree with a focus on bridging clinical practice and research methodology.",
