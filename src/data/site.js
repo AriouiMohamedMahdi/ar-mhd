@@ -1,0 +1,133 @@
+export const siteData = {
+  name: "A.M.Mahdi",
+  title: "M.D. Student",
+  tagline: "Medical Student · Researcher · Developer · Founder",
+  bio: "Medical student with interdisciplinary research interests spanning medicine, technology, and human systems. Founder of MHD Institute — a growing scientific community. Developer, content creator, and aspiring writer driven by the belief that science and creativity are two sides of the same coin.",
+  location: "Algeria",
+  available: true,
+
+  social: {
+    github:   "https://github.com",
+    linkedin: "https://linkedin.com",
+    medium:   "https://medium.com",
+    instagram:"https://instagram.com",
+    email:    "mailto:contact@ammahdi.dev",
+  },
+
+  projects: [
+    {
+      id: 1,
+      title: "MHD Institute",
+      category: "Scientific Community",
+      description: "A multidisciplinary scientific community bridging medicine, technology, and research. Built to connect curious minds, share knowledge, and foster collaborative inquiry across disciplines.",
+      tags: ["Research", "Community", "Science", "Medicine"],
+      status: "Active",
+      featured: true,
+      link: "#",
+      github: null,
+    },
+    {
+      id: 2,
+      title: "BioSignal Analyzer",
+      category: "Dev · Python",
+      description: "Python-based tool for processing and visualizing biological signal data. Designed for medical research workflows with clean data pipelines and exportable charts.",
+      tags: ["Python", "Data Science", "Medicine", "Open Source"],
+      status: "In Progress",
+      featured: true,
+      link: null,
+      github: "https://github.com",
+    },
+    {
+      id: 3,
+      title: "MedNotes CLI",
+      category: "Dev · C++",
+      description: "A lightweight command-line note-taking system built for medical students — structured around organ systems, pharmacology, and clinical cases.",
+      tags: ["C++", "CLI", "Medical Education"],
+      status: "Planned",
+      featured: false,
+      link: null,
+      github: "https://github.com",
+    },
+    {
+      id: 4,
+      title: "The Writings",
+      category: "Creative · Blog",
+      description: "A collection of essays, reflections, and narratives at the intersection of medicine, science, and the human experience. Published on Medium.",
+      tags: ["Writing", "Science", "Essay", "Medium"],
+      status: "Ongoing",
+      featured: true,
+      link: "https://medium.com",
+      github: null,
+    },
+  ],
+
+  skills: {
+    languages: [
+      { name: "Arabic",  level: 100, note: "Native" },
+      { name: "English", level: 92,  note: "Fluent" },
+      { name: "French",  level: 78,  note: "Proficient" },
+    ],
+    development: [
+      { name: "Python",     level: 82 },
+      { name: "JavaScript", level: 74 },
+      { name: "C++",        level: 65 },
+    ],
+    other: [
+      { name: "Video Editing",           level: 80 },
+      { name: "Coordination & Mgmt",     level: 88 },
+      { name: "Content Creation",        level: 85 },
+      { name: "Research & Writing",      level: 90 },
+    ],
+  },
+
+  experience: [
+    {
+      year: "2024–Present",
+      role: "Founder & Director",
+      org: "MHD Institute",
+      desc: "Building a scientific community platform for interdisciplinary research and knowledge exchange.",
+    },
+    {
+      year: "2023–Present",
+      role: "M.D. Student",
+      org: "Faculty of Medicine",
+      desc: "Pursuing medical degree with a focus on bridging clinical practice and research methodology.",
+    },
+    {
+      year: "2023–Present",
+      role: "Developer & Creator",
+      org: "Independent",
+      desc: "Building tools, writing essays, and producing content at the crossroads of medicine and technology.",
+    },
+  ],
+
+  blogs: [
+    {
+      id: 1,
+      title: "Why Medical Students Should Learn to Code",
+      date: "Coming Soon",
+      category: "Medicine & Tech",
+      excerpt: "The intersection of clinical thinking and computational tools is where the next generation of medicine will be built.",
+      readTime: "5 min",
+      link: "https://medium.com",
+    },
+    {
+      id: 2,
+      title: "On Building a Scientific Community from Scratch",
+      date: "Coming Soon",
+      category: "MHD Institute",
+      excerpt: "What I learned from founding MHD Institute — the challenges, the vision, and what comes next.",
+      readTime: "7 min",
+      link: "https://medium.com",
+    },
+    {
+      id: 3,
+      title: "The Art of Interdisciplinary Thinking",
+      date: "Coming Soon",
+      category: "Essay",
+      excerpt: "Science advances when disciplines collide. Here's how to train your mind to think across boundaries.",
+      readTime: "6 min",
+      link: "https://medium.com",
+    },
+  ],
+}
